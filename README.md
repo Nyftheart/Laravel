@@ -14,3 +14,5 @@ Penser a changer l'adress mail dans productController.php dans la fonction store
 
 Et dans .env pensez a mettre sql lite 
 
+Et le Migrate
+
