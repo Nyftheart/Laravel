@@ -16,3 +16,9 @@ Et dans .env pensez a mettre sql lite
 
 Et le Migrate
 
+# tache
+
+Yann henno : mail et login
+
+Alexandre kramer : crud css bdd
+
