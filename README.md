@@ -15,7 +15,7 @@ Penser a changer l'adress mail dans productController.php dans la fonction store
 
 Et dans .env pensez a mettre sql lite 
 
-Crée table twiter
+Crée Base de donnée twiter
 
 Et le Migrate
 
